@@ -43,7 +43,15 @@
                             <h6>MY MARKETS</h6>
                             <nav class="nav-home-aside">
                                 <ul class="menu-category">
-                                    <li><a href="#">Fashion and clothes</a></li>
+                                    <li>
+                                        @Html.ActionLink(
+                                                 "Fashion and clothes",    // Văn bản hiển thị
+                                                 "Category",            // Tên action
+                                                 "Category",               // Tên controller
+                                                 null,                     // Route values (không tham số)
+                                                 null                      // Thuộc tính HTML bổ sung
+                                             )
+                                    </li>
                                     <li><a href="#">Automobile and motors</a></li>
                                     <li><a href="#">Gardening and agriculture</a></li>
                                     <li><a href="#">Electronics and tech</a></li>

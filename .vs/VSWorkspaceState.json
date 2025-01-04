@@ -4,8 +4,9 @@
     "\\tieuthiminhthuong",
     "\\tieuthiminhthuong\\Views",
     "\\tieuthiminhthuong\\Views\\Category",
-    "\\tieuthiminhthuong\\Views\\Home"
+    "\\tieuthiminhthuong\\Views\\Home",
+    "\\tieuthiminhthuong\\Views\\User"
   ],
-  "SelectedNode": "\\tieuthiminhthuong\\Views\\Category\\Category.cshtml",
+  "SelectedNode": "\\tieuthiminhthuong\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
