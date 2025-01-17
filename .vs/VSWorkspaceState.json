@@ -2,11 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\tieuthiminhthuong",
+    "\\tieuthiminhthuong\\Areas",
+    "\\tieuthiminhthuong\\Areas\\Admin",
+    "\\tieuthiminhthuong\\Areas\\Admin\\Controllers",
+    "\\tieuthiminhthuong\\Areas\\Admin\\Views",
+    "\\tieuthiminhthuong\\Areas\\Admin\\Views\\Admin",
+    "\\tieuthiminhthuong\\Areas\\Admin\\Views\\AdminProduct",
     "\\tieuthiminhthuong\\Views",
-    "\\tieuthiminhthuong\\Views\\Category",
-    "\\tieuthiminhthuong\\Views\\Home",
     "\\tieuthiminhthuong\\Views\\User"
   ],
-  "SelectedNode": "\\tieuthiminhthuong\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\tieuthiminhthuong\\Areas\\Admin\\Controllers\\AdminProductController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -77,3 +77,11 @@ D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\obj\Debug\tieuthiminhthuong.cspro
 D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\obj\Debug\tieuthim.2E57E033.Up2Date
 D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\obj\Debug\tieuthiminhthuong.dll
 D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\obj\Debug\tieuthiminhthuong.pdb
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\EntityFramework.dll
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\EntityFramework.xml
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\PagedList.dll
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\PagedList.Mvc.dll
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\PagedList.xml
+D:\ASP.NET\tieuthiminhthuong\tieuthiminhthuong\bin\PagedList.Mvc.xml

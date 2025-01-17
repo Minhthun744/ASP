@@ -54,13 +54,21 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="widgets-wrap float-md-right">
                             <div class="widget-header mr-3">
-                                <a href="@Url.Action("Login", "User")" class="widget-view">
+                                <a href="#" class="widget-view">
                                     <div class="icon-area">
                                         <i class="fa fa-user"></i>
                                         <span class="notify">3</span>
                                     </div>
-                                    <small class="text"> My profile </small>
                                 </a>
+                                @if (Session["idUser"] != null)
+                                {
+                                    <a href="@Url.Action("/Admin/Index", "Admin")">Trang Admin</a>
+                                    <a href="~/Home/Logout">Logout</a>
+                                }
+                                else
+                                {
+                                    <a href="~/Home/Login">Login</a>
+                                }
                             </div>
 
 
